@@ -1,0 +1,4 @@
+Algorithm,Theoretical Time Complexity,Auxiliary Space Complexity,Reason
+Fractional Knapsack,O(n log n),O(n),Sorting items by value-to-weight ratio
+Activity Selection,O(n log n),O(n),Sorting activities by finish time
+Huffman Coding,O(L + k log k),O(k + L),"Frequency counting, heap operations and encoding"
